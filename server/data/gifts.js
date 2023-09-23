@@ -14,7 +14,7 @@ const giftData = [
     {
         "id": 2,
         "name": "Lego Flower Bouquet Kit",
-        "pricePoint": "$",
+        "pricePoint": "$$",
         "audience": "Green Thumbs",
         "image":"https://m.media-amazon.com/images/I/71y9it7UJkL._AC_UL640_FMwebp_QL65_.jpg",
         "description":"A gift and fun activity to do together",

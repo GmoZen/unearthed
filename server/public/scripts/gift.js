@@ -13,7 +13,7 @@ const renderGift = async () => {
 
     if (gift) {
         document.getElementById('image').src = gift.image
-        document.getElementById('name').textContent = gift.name
+        document.getElementById('name').textContent = gift.name                      
         document.getElementById('submittedBy').textContent = 'Submitted by: ' + gift.submittedBy
         document.getElementById('pricePoint').textContent = 'Price: ' + gift.pricePoint
         document.getElementById('audience').textContent = 'Great for ' + gift.audience
