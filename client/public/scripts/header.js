@@ -22,7 +22,7 @@ const headerRight = document.createElement('div')
 headerRight.className = 'header-right'
 
 
-const headerButton = document.createElement('Home') // lab had 'Home' as the argument instead of 'button'
+const headerButton = document.createElement('button') // lab had 'Home' as the argument instead of 'button'
 headerButton.textContent = 'Home'
 
 headerButton.addEventListener('click', function handleClick(event) {

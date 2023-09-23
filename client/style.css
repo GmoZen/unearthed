@@ -82,7 +82,7 @@ main {
 
 .top-container {
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center center;
   height: 250px;
 }
