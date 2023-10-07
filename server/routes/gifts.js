@@ -7,5 +7,4 @@ router.get('/', GiftsController.getGifts)
 
 router.get('/:giftId', GiftsController.getGiftById)
 
-
 export default router
